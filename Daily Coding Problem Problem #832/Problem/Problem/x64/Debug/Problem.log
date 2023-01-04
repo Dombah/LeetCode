@@ -1,0 +1,4 @@
+﻿  Problem.cpp
+C:\Users\Domagoj\Desktop\CodingProblems\DailyCodingProblems\Done\#832\Daily Coding Problem Problem #832\Problem\Problem\Problem.cpp(16,39): warning C4101: 'currentValue': unreferenced local variable
+C:\Users\Domagoj\Desktop\CodingProblems\DailyCodingProblems\Done\#832\Daily Coding Problem Problem #832\Problem\Problem\Problem.cpp(16,25): warning C4101: 'compareValue': unreferenced local variable
+  Problem.vcxproj -> C:\Users\Domagoj\Desktop\CodingProblems\DailyCodingProblems\Done\#832\Daily Coding Problem Problem #832\Problem\x64\Debug\Problem.exe
