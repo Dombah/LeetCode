@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lFWTVTm6IoKCJATNN1xOHVv7neuaebc0gzLUjJifptA2n5/XVR0I2Vs7bTTG5HpNgrFEJo4xzz97/mYNAb5O+Q==",
+  "dgSpecHash": "QloyH9iWecxM58EIP9nO9ujLyN8BY73Opb61Sh2v32Takf0NbdskEIplWvPBcNF6vQ3RARwJGJ2YMEKb83KRYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Domagoj\\source\\repos\\Longest Common Prefix\\Longest Common Prefix\\Longest Common Prefix.csproj",
+  "projectFilePath": "C:\\Users\\Domagoj\\LeetCode\\Longest Common Prefix\\Longest Common Prefix\\Longest Common Prefix.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
